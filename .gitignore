@@ -6,3 +6,9 @@ bin/
 
 # macOS
 .DS_Store
+
+# Large assets
+*.png
+*.jpg
+*.jpeg
+*.gif
